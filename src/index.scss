@@ -3,27 +3,33 @@ body {
   padding: 0;
   font-family: sans-serif;
   background-color: beige;
-  font-size: 20px; }
+  font-size: 20px
+}
 
 ul {
-  display: inline; }
+  display: inline
+}
 
 a {
-  text-decoration: bisque; }
+
+  text-decoration: bisque;
+}
 
 nav {
   background-color: grey;
   display: flex;
-  height: 50px;
+  height:50px;
   position: relative;
   text-transform: uppercase;
   padding-left: 1vh;
   justify-content: center;
   align-items: center;
   list-style-type: none;
-  font-weight: bolder; }
+  font-weight: bolder
+}
 
 li {
   display: block;
   padding: 15px 15px 15px 15px;
-  overflow: hidden; }
+  overflow: hidden
+}

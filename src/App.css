@@ -1,3 +1,11 @@
 li {
-  text-decoration-line: line-through;
-}
+  text-shadow: 2px; }
+
+div {
+  color: black; }
+
+p {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 30px;
+  color: gray; }
